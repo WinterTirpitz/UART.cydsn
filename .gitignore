@@ -1,0 +1,17 @@
+*.Cywrk.*
+*.Cyprj.*
+Debug/
+Release/
+Export/
+CoretexM0p/
+CoretexM4/
+Codegentemp/
+Generated_Source/
+*._datasheet.pdf
+*._timing.html
+*.cycdx
+*.cyfit
+*.rpt
+*.svd
+*.log
+*.zip
